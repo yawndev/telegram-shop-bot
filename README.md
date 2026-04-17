@@ -187,23 +187,11 @@ sudo systemctl daemon-reload
 sudo systemctl enable --now shop-bot
 ```
 
-## Скриншоты
-
-<!-- 5-8 скриншотов: меню, каталог, корзина, оплата Telegram Stars, админ-панель, CRUD товаров, рассылка, уведомление о заказе -->
-
-![Main menu](screenshots/main.png)
-![Cart](screenshots/cart.png)
-![Invoice](screenshots/invoice.png)
-![Admin panel](screenshots/admin.png)
-![Add product](screenshots/add_product.png)
-![Broadcast](screenshots/broadcast.png)
-
 ## Автор
 
 Telegram-боты под заказ: магазины, оплаты, уведомления, интеграции.
 
-- Telegram: [@твой_ник](https://t.me/твой_ник)
-- Email: yawn52260@gmail.com
+- Telegram: @yaroslav_blog1
 
 ## Лицензия
 
